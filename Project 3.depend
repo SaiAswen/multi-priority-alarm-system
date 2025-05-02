@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746193547 source:c:\users\admin\onedrive\documents\embedded c\project\3\project 3\main.cpp
+	<iostream>
+	<queue>
+	<thread>
+	<chrono>
+
